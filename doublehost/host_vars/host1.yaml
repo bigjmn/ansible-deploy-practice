@@ -1,0 +1,5 @@
+ansible_host: 164.90.155.215
+ansible_user: root
+components:
+  - c_component
+  - d_component

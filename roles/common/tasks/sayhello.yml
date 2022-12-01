@@ -1,0 +1,3 @@
+name: "say hello"
+command: echo "{{ item[sayname] }}"
+with_items: "{{ components }}"

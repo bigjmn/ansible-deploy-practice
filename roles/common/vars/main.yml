@@ -1,0 +1,25 @@
+---
+# vars file for common
+component_a:
+  sayname: "I am A"
+  filetomake: "a-setup.sh"
+
+component_b:
+  sayname: "I am B"
+  filetomake: "B-setup.sh"
+  
+component_c:
+  sayname: "I am C"
+  filetomake: "c-setup.sh"
+
+component_d:
+  sayname: "I am D"
+  filetomake: "d-setup.sh"
+
+component_e:
+  sayname: "I am E"
+  filetomake: "e-setup.sh"
+  
+component_f:
+  sayname: "I am F"
+  filetomake: "f-setup.sh"

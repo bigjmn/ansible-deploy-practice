@@ -1,0 +1,5 @@
+ansible_host: 143.198.101.122
+ansible_user: root
+components:
+  - a_component
+  - b_component

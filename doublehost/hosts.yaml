@@ -1,0 +1,12 @@
+multihosts:
+  children:
+    env2:
+      hosts:
+        host2:
+        host3:
+    env3:
+      hosts:
+        host1:
+        host2:
+        host3:
+
